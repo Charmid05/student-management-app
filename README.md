@@ -4,7 +4,9 @@ The  Student management app is a full-stack application for managing student rec
 
  
  Install dependencies:
+ 
  cd backend
+ 
 npm install
 
 Start the server:
