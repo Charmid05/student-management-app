@@ -11,7 +11,9 @@ Start the server:
 npm run dev
 
 Start the React application:
+
 cd frontend
+
 npm start
 
 Backend API on http://localhost:5000
